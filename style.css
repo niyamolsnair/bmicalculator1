@@ -1,0 +1,100 @@
+ *{
+    font-family: Arial, sans-serif;
+    background-color: rgb(54, 49, 49);
+    text-align: center;
+  }
+
+  #calculator {
+    max-width: 400px;
+    height: auto;
+    margin: 50px auto;
+    background-color:rgb(176, 182, 180);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 4px 5px azure;
+    
+  }
+  img{
+    background-color:rgb(176, 182, 180) ;
+  }
+h2{
+    background-color:rgb(176, 182, 180) ;
+    color:black;
+}
+#gender{
+    display: inline-flex;
+    align-items: center;
+    background-color:rgb(176, 182, 180) ;
+}
+  .label1{
+    display:flex;
+    margin-bottom: 8px;
+    font-weight: bold;
+    align-items: center;
+    color: #4caf50;
+    background-color:rgb(176, 182, 180) ;
+    background-color:rgb(176, 182, 180) ;
+  }
+  .label2{
+display: flex;
+margin-bottom: 8px;
+    font-weight: bold;
+    align-items: center;
+    background-color:rgb(176, 182, 180) ;
+  }
+  .label3{
+    display: flex;
+    margin-bottom: 8px;
+        font-weight: bold;
+        align-items: center;
+        background-color:rgb(176, 182, 180) ;
+      }
+      .label4{
+        display: flex;
+        margin-bottom: 8px;
+            font-weight: bold;
+            align-items: center;
+            background-color:rgb(176, 182, 180) ;
+          }
+         .label5{
+    display: flex;
+    margin-bottom: 8px;
+     font-weight: bold;
+    align-items: center;
+    background-color:rgb(176, 182, 180) ;
+     }
+     label{
+        background-color:rgb(176, 182, 180) ;
+        color: #1e11cd;
+     }
+  input {
+    width: 100%;
+    padding: 15px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 10px;
+    box-sizing:content-box;
+    background-color:rgb(227, 243, 238) ;
+  }
+  #hlth{
+    display: inline-flex;
+  }
+
+  button {
+    background-color: #2e16c7;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #45a049;
+  }
+
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+    background-color: greenyellow;
+  }
